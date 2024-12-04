@@ -4,11 +4,12 @@ Studi ini bertujuan untuk menganalisis berbagai faktor yang memengaruhi tingkat 
 
 Fokus utama adalah:
 
-Analisis jumlah dan sebaran listing melalui pendekatan lokasi/wilayah, bagaimana distribusi listing dan apakah sudah merata di seluruh wilayah?
-Preferensi tamu terhadap tipe kamar yang disediakan oleh para host dengan pendekatan Room Type, bagaimana preferensi tamu terhadap tipe kamar yang tersedia?
-Faktor yang memengaruhi harga listing dengan pendekatan harga dan apakah ada korelasi dengan faktor lain?
-Tren waktu dari tahun ke tahun melalui pendekatan waktu, apakah ada tren khusus yang dapat mengoptimalisasi jumlah penyewa?
-Analisis mengenai hubungan antara popularitas host dengan jumlah sewa dengan pendekatan Host, apakah host yang sudah memiliki banyak review akan mendapatkan jumlah review yang lebih banyak juga dibanding yang lain?
-Analisis mengenai ketersediaan listing melalui pendekatan Availability, tipe room mana yang paling sering disewa dilihat dari jumlah ketersediaan?
-Analisis mengenai aturan minimum night yang diterapkan di tiap listing menggunakan pendekatan Minimum Nights, para tamu lebih sering memilih listing dengan aturan minimum berapa?
+1. Analisis jumlah dan sebaran listing melalui pendekatan lokasi/wilayah, bagaimana distribusi listing dan apakah sudah merata di seluruh wilayah?
+2. Preferensi tamu terhadap tipe kamar yang disediakan oleh para host dengan pendekatan Room Type, bagaimana preferensi tamu terhadap tipe kamar yang tersedia?
+3. Faktor yang memengaruhi harga listing dengan pendekatan harga dan apakah ada korelasi dengan faktor lain?
+4. Tren waktu dari tahun ke tahun melalui pendekatan waktu, apakah ada tren khusus yang dapat mengoptimalisasi jumlah penyewa?
+5. Analisis mengenai hubungan antara popularitas host dengan jumlah sewa dengan pendekatan Host, apakah host yang sudah memiliki banyak review akan mendapatkan jumlah review yang lebih banyak juga dibanding yang lain?
+6. Analisis mengenai ketersediaan listing melalui pendekatan Availability, tipe room mana yang paling sering disewa dilihat dari jumlah ketersediaan?
+7. Analisis mengenai aturan minimum night yang diterapkan di tiap listing menggunakan pendekatan Minimum Nights, para tamu lebih sering memilih listing dengan aturan minimum berapa?
+
 Melalui analisis ini, diharapkan dapat dihasilkan insight yang mendalam dan actionable bagi host untuk meningkatkan profitabilitas mereka dengan optimalisasi strategi penyewaan.
