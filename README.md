@@ -1,15 +1,76 @@
-Bangkok, dengan lebih dari 22 juta kunjungan wisatawan internasional pada 2022, adalah pasar Airbnb yang dinamis. Analisis data 2012–2022 akan mengeksplorasi distribusi wilayah, pola ketersediaan, preferensi tipe kamar, tren harga, dan popularitas host. Hasilnya diharapkan memberi rekomendasi strategis bagi host dan insight untuk pariwisata.
+# Analisis Airbnb di Bangkok: Tren, Preferensi, dan Strategi Optimalisasi
 
-Studi ini bertujuan untuk menganalisis berbagai faktor yang memengaruhi tingkat penyewaan dan profitabilitas host di platform Airbnb. Faktor-faktor tersebut mencakup ulasan pelanggan, lokasi properti, tipe properti, aturan minimum malam, harga sewa, serta tren musiman.
+Bangkok, sebagai salah satu destinasi wisata paling populer di dunia, mencatat lebih dari **22 juta kunjungan wisatawan internasional pada 2022**. Pasar Airbnb di kota ini sangat dinamis, menawarkan peluang besar bagi para host untuk meningkatkan penyewaan dan profitabilitas. Proyek ini bertujuan untuk menganalisis data Airbnb dari **2012 hingga 2022** guna memberikan wawasan strategis bagi host dan insight mendalam untuk sektor pariwisata.
 
-Fokus utama adalah:
+## 🎯 **Tujuan Studi**
+Analisis ini dirancang untuk menjawab berbagai pertanyaan terkait pasar Airbnb di Bangkok, termasuk:
+- Faktor yang memengaruhi tingkat penyewaan dan profitabilitas host.
+- Preferensi tamu terhadap tipe kamar, harga, dan lokasi.
+- Tren musiman serta popularitas host.
 
-1. Analisis jumlah dan sebaran listing melalui pendekatan lokasi/wilayah, bagaimana distribusi listing dan apakah sudah merata di seluruh wilayah?
-2. Preferensi tamu terhadap tipe kamar yang disediakan oleh para host dengan pendekatan Room Type, bagaimana preferensi tamu terhadap tipe kamar yang tersedia?
-3. Faktor yang memengaruhi harga listing dengan pendekatan harga dan apakah ada korelasi dengan faktor lain?
-4. Tren waktu dari tahun ke tahun melalui pendekatan waktu, apakah ada tren khusus yang dapat mengoptimalisasi jumlah penyewa?
-5. Analisis mengenai hubungan antara popularitas host dengan jumlah sewa dengan pendekatan Host, apakah host yang sudah memiliki banyak review akan mendapatkan jumlah review yang lebih banyak juga dibanding yang lain?
-6. Analisis mengenai ketersediaan listing melalui pendekatan Availability, tipe room mana yang paling sering disewa dilihat dari jumlah ketersediaan?
-7. Analisis mengenai aturan minimum night yang diterapkan di tiap listing menggunakan pendekatan Minimum Nights, para tamu lebih sering memilih listing dengan aturan minimum berapa?
+Hasil dari analisis ini diharapkan dapat memberikan rekomendasi strategis untuk meningkatkan performa listing Airbnb dan membantu host memahami perilaku tamu.
 
-Melalui analisis ini, diharapkan dapat dihasilkan insight yang mendalam dan actionable bagi host untuk meningkatkan profitabilitas mereka dengan optimalisasi strategi penyewaan.
+---
+
+## 🔍 **Fokus Analisis**
+Proyek ini melibatkan berbagai pendekatan untuk mengeksplorasi pasar Airbnb di Bangkok:
+
+### 1. **Distribusi Lokasi dan Listing**
+- Analisis jumlah dan sebaran listing berdasarkan wilayah.
+- Identifikasi apakah distribusi listing sudah merata di seluruh Bangkok.
+
+### 2. **Preferensi Tipe Kamar**
+- Eksplorasi preferensi tamu terhadap tipe kamar (Entire Home, Private Room, Shared Room).
+- Insight mengenai tipe kamar mana yang paling diminati.
+
+### 3. **Faktor Penentu Harga**
+- Analisis faktor-faktor yang memengaruhi harga listing.
+- Korelasi antara harga dengan lokasi, tipe kamar, dan fasilitas.
+
+### 4. **Tren Waktu**
+- Tren penyewaan dari tahun ke tahun.
+- Identifikasi pola musiman untuk mengoptimalkan strategi penyewaan.
+
+### 5. **Popularitas Host**
+- Hubungan antara jumlah review dan popularitas host.
+- Apakah host dengan lebih banyak review mendapatkan lebih banyak penyewa?
+
+### 6. **Ketersediaan Listing**
+- Analisis tipe kamar mana yang paling sering disewa berdasarkan tingkat ketersediaan.
+
+### 7. **Aturan Minimum Night**
+- Preferensi tamu terhadap aturan minimum malam yang diterapkan.
+- Identifikasi aturan minimum malam yang optimal untuk meningkatkan penyewaan.
+
+---
+
+## 📊 **Metodologi**
+Data diambil dari platform Airbnb dengan rentang waktu 2012 hingga 2022. Analisis dilakukan menggunakan:
+- **Visualisasi Data**: Untuk melihat pola dan tren utama.
+- **Analisis Statistik**: Untuk memahami hubungan antar variabel.
+- **Modeling dan Prediksi**: Untuk memberikan rekomendasi berbasis data.
+
+### Tools yang Digunakan:
+- **Python**: Untuk analisis data dan visualisasi.
+- **Pandas, NumPy**: Untuk manipulasi data.
+- **Matplotlib, Seaborn**: Untuk visualisasi.
+- **Scikit-learn**: Untuk analisis prediktif.
+
+---
+
+## 📈 **Hasil yang Diharapkan**
+1. Wawasan mendalam tentang distribusi listing dan preferensi tamu.
+2. Strategi optimalisasi harga untuk meningkatkan profitabilitas.
+3. Rekomendasi mengenai aturan minimum malam.
+4. Identifikasi tren musiman untuk strategi promosi yang lebih efektif.
+5. Peningkatan pemahaman tentang hubungan antara popularitas host dan jumlah penyewaan.
+
+---
+
+## 🌟 **Manfaat Proyek**
+Proyek ini memberikan manfaat bagi:
+- **Host Airbnb**: Mendapatkan strategi berbasis data untuk meningkatkan penyewaan.
+- **Industri Pariwisata**: Memahami perilaku wisatawan di Bangkok.
+- **Peneliti dan Analis Data**: Sebagai studi kasus yang komprehensif dalam analisis pasar dinamis.
+
+---
